@@ -1,5 +1,2 @@
-!# /bin/bash
-
-ls
-touch example.txt
-ls
+echo 'Hello from run.sh'
+echo 'This is being run from a Jenkins Freestyle job'
